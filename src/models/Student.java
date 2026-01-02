@@ -2,7 +2,7 @@ package models;
 
 public class Student extends Person {
     private double gpa;
-    private static final double STIPEND_AMOUNT = 52372.00;
+    private static final double STIPEND_AMOUNT = 36660.00;
 
     public Student() {
         super();
